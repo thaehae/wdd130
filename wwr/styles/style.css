@@ -175,6 +175,60 @@ main section img {
     opacity: .6;
     transform: scale(1.1);
 }
+#content {max-width: 1600px;
+margin: 0 auto;
+}
+
+/* new CSS for sub page called Info*/
+
+.info-title {color: #2ca0bd;
+    font-family: 'Roboto Flex', 'Arial', sans-serif;
+    font-size: 2em; 
+    margin-top: 10px;
+}
+
+#hero {display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    margin: -100px;
+}
+#hero-msg h2 {
+    text-align: center;
+    color: rgb(20, 32, 143);
+    font-size: 30pt;
+} 
+#hero-msg h3 {
+    text-align: center;
+    color: white;
+}
+#hero-img {
+    width: 100%;
+}
+.content1 img {display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+}
+.content1 h3 {text-align: center;
+    color: #2989ce;
+}
+.content1 p {text-align: center;
+    color: #163850;
+}
+.content2 img {display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+}
+.content2 h3 {text-align: center;
+    color: #2989ce;
+}
+.content2 p {text-align: center;
+    color: #163850;
+}
+.rivers-grid {display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
