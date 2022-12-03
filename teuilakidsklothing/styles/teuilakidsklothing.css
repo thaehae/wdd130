@@ -8,7 +8,7 @@ Fonts are separated by a | */
   --primary-color: #99C087 ;
   --secondary-color: #85D6FF ;
   --accent1-color: #F01956;
-  --accent2-color: #F47BD6;
+  --accent2-color: #163850;
 
   /* change the values below to your chosen font(s) */
   --heading-font: font-family: 'Cinzel', 'Arial', serif;
@@ -20,7 +20,7 @@ Fonts are separated by a | */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #F01956  ;
-  --nav-link-color: #396E94;
+  --nav-link-color: #163850;
   --nav-background-color: #99C087;
   --nav-hover-link-color: #F47BD6;
   --nav-hover-background-color: #F01956;
