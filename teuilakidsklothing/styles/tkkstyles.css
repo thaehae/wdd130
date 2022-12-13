@@ -45,7 +45,7 @@ main section {
     grid-row: 4/9;
 }
 body {
-    background-color: #163850;
+    background-color:  #163850;
     font-family: 'Lato', 'helvetica', sans-serif;
     font-size: 22px;
     margin: 0; 
@@ -57,7 +57,7 @@ header {
     grid-template-columns: 200px auto;
 }
 nav a:hover {
-    background-color: #85D6FF;
+    background-color: #99C087;
     color: #F01956;
 }
 footer {
@@ -90,7 +90,7 @@ h4 {
     padding-bottom: 15px;
 }
 footer a {
-    color: #396E94; 
+    color: #99C087; 
     text-decoration: none;
 }
 footer p a:hover {
@@ -293,7 +293,7 @@ h3 {color: #F01956;
     padding: 20px;
     height: auto;
 }
-.red-card {
+.brown-card {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
